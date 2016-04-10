@@ -18,6 +18,7 @@ public class MainActivity extends Activity implements android.view.GestureDetect
 
     private Activity mActivity = null;
 
+
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
